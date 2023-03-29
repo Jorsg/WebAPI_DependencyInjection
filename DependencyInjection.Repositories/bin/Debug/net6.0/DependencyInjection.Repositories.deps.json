@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DependencyInjection.Repositories/1.0.0": {
+        "dependencies": {
+          "DependencyInjection.Common": "1.0.0"
+        },
+        "runtime": {
+          "DependencyInjection.Repositories.dll": {}
+        }
+      },
+      "DependencyInjection.Common/1.0.0": {
+        "runtime": {
+          "DependencyInjection.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DependencyInjection.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DependencyInjection.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

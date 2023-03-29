@@ -1,0 +1,17 @@
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Services\bin\Debug\net6.0\DependencyInjection.Services.deps.json
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Services\bin\Debug\net6.0\DependencyInjection.Services.dll
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Services\bin\Debug\net6.0\DependencyInjection.Services.pdb
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Services\bin\Debug\net6.0\DependencyInjection.Common.dll
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Services\bin\Debug\net6.0\DependencyInjection.Repositories.dll
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Services\bin\Debug\net6.0\DependencyInjection.Common.pdb
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Services\bin\Debug\net6.0\DependencyInjection.Repositories.pdb
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Services\obj\Debug\net6.0\DependencyInjection.Services.csproj.AssemblyReference.cache
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Services\obj\Debug\net6.0\DependencyInjection.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Services\obj\Debug\net6.0\DependencyInjection.Services.AssemblyInfoInputs.cache
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Services\obj\Debug\net6.0\DependencyInjection.Services.AssemblyInfo.cs
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Services\obj\Debug\net6.0\DependencyInjection.Services.csproj.CoreCompileInputs.cache
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Services\obj\Debug\net6.0\DependencyInjection.Services.csproj.CopyComplete
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Services\obj\Debug\net6.0\DependencyInjection.Services.dll
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Services\obj\Debug\net6.0\refint\DependencyInjection.Services.dll
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Services\obj\Debug\net6.0\DependencyInjection.Services.pdb
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Services\obj\Debug\net6.0\ref\DependencyInjection.Services.dll

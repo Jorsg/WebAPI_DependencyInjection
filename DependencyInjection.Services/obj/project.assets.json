@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "DependencyInjection.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DependencyInjection.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DependencyInjection.Common.dll": {}
+        }
+      },
+      "DependencyInjection.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DependencyInjection.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DependencyInjection.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DependencyInjection.Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DependencyInjection.Common/1.0.0": {
+      "type": "project",
+      "path": "../DependencyInjection.Common/DependencyInjection.Common.csproj",
+      "msbuildProject": "../DependencyInjection.Common/DependencyInjection.Common.csproj"
+    },
+    "DependencyInjection.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../DependencyInjection.Repositories/DependencyInjection.Repositories.csproj",
+      "msbuildProject": "../DependencyInjection.Repositories/DependencyInjection.Repositories.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "DependencyInjection.Common >= 1.0.0",
+      "DependencyInjection.Repositories >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Repos\\repos\\WebAPI_DependencyInjection\\DependencyInjection.Services\\DependencyInjection.Services.csproj",
+      "projectName": "DependencyInjection.Services",
+      "projectPath": "D:\\Repos\\repos\\WebAPI_DependencyInjection\\DependencyInjection.Services\\DependencyInjection.Services.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Repos\\repos\\WebAPI_DependencyInjection\\DependencyInjection.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Repos\\repos\\WebAPI_DependencyInjection\\DependencyInjection.Common\\DependencyInjection.Common.csproj": {
+              "projectPath": "D:\\Repos\\repos\\WebAPI_DependencyInjection\\DependencyInjection.Common\\DependencyInjection.Common.csproj"
+            },
+            "D:\\Repos\\repos\\WebAPI_DependencyInjection\\DependencyInjection.Repositories\\DependencyInjection.Repositories.csproj": {
+              "projectPath": "D:\\Repos\\repos\\WebAPI_DependencyInjection\\DependencyInjection.Repositories\\DependencyInjection.Repositories.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

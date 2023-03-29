@@ -1,0 +1,12 @@
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Common\bin\Debug\net6.0\DependencyInjection.Common.deps.json
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Common\bin\Debug\net6.0\DependencyInjection.Common.dll
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Common\bin\Debug\net6.0\DependencyInjection.Common.pdb
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Common\obj\Debug\net6.0\DependencyInjection.Common.csproj.AssemblyReference.cache
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Common\obj\Debug\net6.0\DependencyInjection.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Common\obj\Debug\net6.0\DependencyInjection.Common.AssemblyInfoInputs.cache
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Common\obj\Debug\net6.0\DependencyInjection.Common.AssemblyInfo.cs
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Common\obj\Debug\net6.0\DependencyInjection.Common.csproj.CoreCompileInputs.cache
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Common\obj\Debug\net6.0\DependencyInjection.Common.dll
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Common\obj\Debug\net6.0\refint\DependencyInjection.Common.dll
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Common\obj\Debug\net6.0\DependencyInjection.Common.pdb
+D:\Repos\repos\WebAPI_DependencyInjection\DependencyInjection.Common\obj\Debug\net6.0\ref\DependencyInjection.Common.dll
